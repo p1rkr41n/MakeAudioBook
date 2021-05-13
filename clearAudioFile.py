@@ -1,0 +1,3 @@
+from clearFile import clear
+
+    
